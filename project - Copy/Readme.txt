@@ -164,10 +164,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [@yourusername](https://twitter.com/yourusername) - email@example.com
+Name - Ankit Pimpalkar - ankitpimpalkar707@gmail.com
 
 Project Link: [https://github.com/yourusername/google-sheet-validator](https://github.com/yourusername/google-sheet-validator)
-
----
-
-*Note: This README assumes certain implementation details based on the main script. Adjust as needed to match your actual implementation.*
