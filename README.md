@@ -54,8 +54,8 @@ This project leverages artificial intelligence to enhance data validation proces
 
 ### Google Sheet URL
 Set your Google Sheet URL in one of the following ways:
+- Paste sheet url in Configuration file (see `config/sheet_url`)
 - Environment variable: `SHEET_URL`
-- Configuration file (see `src/config_loader.py` for details)
 
 ### Valid PINs
 Create a file at `config/valid_pins.txt` with one PIN per line:
