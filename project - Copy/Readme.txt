@@ -166,4 +166,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Name - Ankit Pimpalkar - ankitpimpalkar707@gmail.com
 
-Project Link: [https://github.com/yourusername/google-sheet-validator](https://github.com/yourusername/google-sheet-validator)
+Project Link: [https://github.com/AnkitPimpalkar/QA-automation-with-AI]
