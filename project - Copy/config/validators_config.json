@@ -1,0 +1,37 @@
+{
+    "validators": [
+        {
+            "column_name": "PIN Code",
+            "validator_type": "pin",
+            "params": {
+                "valid_pins_file": "valid_pins.txt"
+            }
+        },
+        {
+            "column_name": "Phone",
+            "validator_type": "phone",
+            "params": {
+                "allowed_formats": [
+                    "+91 XXXXXXXXXX",
+                    "+91-XXX-XXX-XXXX",
+                    "XXXXXXXXXX",
+                    "XXX-XXX-XXXX",
+                    "(XXX) XXX-XXXX"
+                ]
+            }
+        },
+        {
+            "column_name": "Email",
+            "validator_type": "email",
+            "params": {
+                "check_domain": true,
+                "allow_uncommon_domains": true
+            }
+        },
+        {
+            "column_name": "Call Notes",
+            "validator_type": "callnote",
+            "params": {}
+        }
+    ]
+}
